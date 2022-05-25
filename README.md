@@ -12,5 +12,5 @@ Sound (including music)
 
 Controls (mouse, keyboard, gamepad and so on)
 
-random
+
 The random module controls the generation of random numbers. Its main functions are
